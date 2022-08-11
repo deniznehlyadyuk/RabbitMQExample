@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reciever", "Reciever\Reciever.csproj", "{40324941-2D3C-4573-BE79-2BCAD6135094}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sender", "Sender\Sender.csproj", "{1606AB5C-2E9B-44F4-97BF-14FA5B1128F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40324941-2D3C-4573-BE79-2BCAD6135094}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40324941-2D3C-4573-BE79-2BCAD6135094}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40324941-2D3C-4573-BE79-2BCAD6135094}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40324941-2D3C-4573-BE79-2BCAD6135094}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1606AB5C-2E9B-44F4-97BF-14FA5B1128F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1606AB5C-2E9B-44F4-97BF-14FA5B1128F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1606AB5C-2E9B-44F4-97BF-14FA5B1128F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1606AB5C-2E9B-44F4-97BF-14FA5B1128F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
